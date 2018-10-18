@@ -14,7 +14,7 @@ The Rolling Stones,57,1
 Stevie Wonder,63,1
 Neil Diamond,55,1
 Madonna,55,1
-Connie Francis,55,1
+Connie Francis,56,1
 The Beach Boys,55,1
 James Brown,53,4
 Paul Anka,52,1
@@ -45,7 +45,7 @@ The Platters,40,1
 Justin Bieber,39,2
 Gladys Knight and the Pips,40,1
 Wilson Pickett,38,6
-Whitney Houston,38,1
+Whitney Houston,44,1
 Lil Wayne,38,1
 Kenny Chesney,38,16
 The Impressions,38,4
@@ -73,8 +73,8 @@ Olivia Newton-John,32,1
 Mary J. Blige,32,1
 Donna Summer,33,1
 Glen Campbell,32,1
-Chubby Checker,32,1
-Cher,32,1
+Chubby Checker,35,1
+Cher,51,1
 Bobby Vee,32,1
 Brad Paisley,32,28
 T.I.,31,1
@@ -96,12 +96,12 @@ Keith Urban,29,16
 Dean Martin,29,1
 Aerosmith,30,1
 U2,32,1
-Spinners,28,2
+The Spinners,29,1
 Roy Orbison,31,1
 Miracles,28,1
 Prince,49,1
 Kanye West,28,1
-Carpenters,28,1
+The Carpenters,28,1
 Bobby Rydell,28,2
 Beyonce,28,1
 Barry Manilow,28,1
@@ -111,7 +111,7 @@ McGuire Sisters,27,1
 Pointer Sisters,27,2
 Johnny Rivers,27,1
 Joe Tex,27,2
-Doobie Brothers,27,1
+The Doobie Brothers,27,1
 Anne Murray,27,1
 Billy Vaughn,27,5
 Bon Jovi,27,1
@@ -121,22 +121,22 @@ Solomon Burke,26,22
 KISS,26,7
 Journey,26,2
 Johnny Tillotson,26,2
-Janet Jackson,26,1
+Janet Jackson,36,1
 Bruce Springsteen,28,2
 Brooks & Dunn,26,25
 Bobby Goldsboro,26,1
 Queen,27,1
 Nelly,25,1
 Otis Redding,25,1
-LL Cool J,25,3
+LL Cool J,26,3
 Herb Alpert & The Tijuana Brass,25,7
 Frankie Avalon,25,1
 Fleetwood Mac,25,1
 Chuck Berry,27,1
-Commodores,25,1
+The Commodores,25,1
 50 Cent,25,1
 Santana,26,1
-Phil Collins,24,1
+Phil Collins,27,1
 Marty Robbins,24,1
 Kenny Rogers,24,1
 Jan & Dean,24,1
@@ -157,7 +157,7 @@ Rick Nelson,23,5
 Righteous Brothers,23,1
 Kelly Clarkson,23,1
 The Kinks,23,6
-Marvelettes,23,1
+The Marvelettes,23,1
 The Hollies,23,2
 Jim Reeves,23,2
 Eddie Money,23,4
@@ -182,16 +182,16 @@ Teresa Brewer,21,5
 Three Dog Night,21,1
 Shania Twain,21,2
 Smokey Robinson,43,1
-Monkees,21,1
+The Monkees,21,1
 The Moody Blues,21,2
 Martina McBride,21,24
-Mary Wells,21,1
+Mary Wells,23,1
 Ludacris,21,1
 Luther Vandross,21,4
 Helen Reddy,21,1
 Johnnie Taylor,21,1
 Huey Lewis & The News,21,1
-Guess Who,21,1
+The Guess Who,21,1
 Gene Chandler,21,12
 Eddy Arnold,21,6
 Dion,30,1
@@ -199,7 +199,7 @@ The Eagles,21,1
 Electric Light Orchestra,21,4
 Duran Duran,21,1
 Bryan Adams,21,1
-Carly Simon,21,1
+Carly Simon,23,1
 Clyde McPhatter,21,6
 Alice Cooper,21,7
 Steve Miller,20,1
@@ -222,7 +222,7 @@ Christina Aguilera,20,1
 Blake Shelton,20,12
 ABBA,20,1
 Ames Brothers,20,5
-Tommy James & The Shondells,19,1
+Tommy James & the Shondells,19,1
 Smokey Robinson & The Miracles,19,1
 REO Speedwagon,19,1
 "Peter, Paul & Mary",19,1
@@ -238,7 +238,7 @@ Four Aces,19,1
 Dinah Washington,19,8
 Def Leppard,19,1
 The Coasters,19,1
-Conway Twitty,19,1
+Conway Twitty,20,1
 Avril Lavigne,19,1
 Bill Black's Combo,19,9
 Al Green,20,1
@@ -281,11 +281,11 @@ Kingston Trio,17,1
 Lenny Kravitz,17,2
 Grass Roots,17,5
 James Taylor,21,1
-Joe Cocker,17,5
-INXS,17,1
+Joe Cocker,21,5
+INXS,18,1
 John Mayer,17,12
 Jefferson Starship,17,3
-J. Geils Band,17,1
+The J. Geils Band,17,1
 Four Lads,17,2
 Dixie Chicks,17,4
 The Doors,17,1
@@ -302,8 +302,8 @@ Alan Parsons Project,17,3
 Bad Company,17,5
 Alicia Keys,17,1
 Booker T. and the M.G.'s,17,3
-Tina Turner,16,1
-Sting,16,3
+Tina Turner,17,1
+Sting,18,1
 Richard Marx,16,1
 Metallica,16,10
 Nancy Sinatra,16,1
@@ -358,7 +358,7 @@ Intruders,15,6
 Gary Lewis & The Playboys,15,1
 Fall Out Boy,15,2
 Dolly Parton,15,1
-George Michael,15,1
+George Michael,18,1
 Enrique Iglesias,15,1
 Busta Rhymes,15,3
 Coldplay,15,1
@@ -366,7 +366,7 @@ Carla Thomas,15,10
 Barry White,15,1
 Brandy,15,1
 Tommy Edwards,14,1
-War,14,2
+War,16,2
 Vogues,14,4
 Toto,14,1
 The Ventures,14,2
@@ -400,11 +400,11 @@ Eddie Kendricks,14,1
 Frankie Laine,14,3
 Fabolous,14,4
 Doris Day,14,2
-Eurythmics,14,1
+Eurythmics,15,1
 Ciara,14,1
 Captain & Tennille,14,1
 David Cook,14,3
-Cure,14,2
+The Cure,14,2
 Cat Stevens,14,6
 Cyndi Lauper,14,1
 Demi Lovato,14,10
@@ -414,7 +414,7 @@ Boz Scaggs,14,3
 38 Special,14,10
 Atlanta Rhythm Section,14,7
 SWV,13,1
-Stevie Nicks,13,3
+Stevie Nicks,14,3
 Tommy James,13,4
 Trini Lopez,13,3
 Steppenwolf,13,2
@@ -424,7 +424,7 @@ Sam & Dave,13,2
 Poco,13,17
 Patsy Cline,13,9
 Miranda Lambert,13,20
-Mötley Crüe,13,6
+Motley Crue,13,6
 New Kids on The Block,13,1
 Laura Branigan,13,2
 Little Richard,21,6
@@ -498,16 +498,16 @@ Akon,12,1
 Billy Currington,12,27
 Billy Ocean,12,1
 Billy Stewart,12,10
-Todd Rundgren,11,5
+Todd Rundgren,14,5
 Tennessee Ernie Ford,11,1
 Timi Yuro,11,4
 Stevie B,11,1
 Van Morrison,11,9
 Thompson Twins,11,3
-Shangri-Las,11,1
+The Shangri-Las,11,1
 Shakira,11,1
 Starship,11,1
-Salt 'N Pepa,11,3
+Salt-N-Pepa,11,3
 Rusty Draper,11,3
 Peggy Lee,11,8
 Mitch Miller & His Orchestra,11,8
@@ -576,7 +576,7 @@ Weird Al Yankovic,10,9
 Tony Orlando & Dawn,10,1
 Taylor Dayne,10,1
 Sean Paul,10,1
-Rick James,10,13
+Rick James,11,13
 Pussycat Dolls,10,2
 Sarah McLachlan,10,3
 Ray Price,10,11
@@ -586,7 +586,7 @@ Prince & The Revolution,10,1
 Mumford & Sons,10,12
 The Pretenders,10,5
 Playmates,10,4
-Nilsson,10,1
+Harry Nilsson,10,1
 Naughty By Nature,10,6
 Notorious B.I.G.,10,1
 New Colony Six,10,16
@@ -723,7 +723,7 @@ Dion & The Belmonts,9,3
 Dr. Dre,9,2
 Don Cornell,9,7
 Fray,9,3
-Chaka Khan,9,3
+Chaka Khan,11,3
 Danny & The Juniors,9,1
 Ce Ce Peniston,9,5
 Buddy Knox,9,1
@@ -759,7 +759,7 @@ Will Smith,8,1
 Sylvers,8,1
 Wale,8,21
 Talking Heads,8,9
-Willie Nelson,8,5
+Willie Nelson,10,5
 Trick Daddy,8,7
 Wang Chung,8,2
 Whitesnake,8,1
@@ -781,7 +781,7 @@ Smashing Pumpkins,8,12
 Roger Daltrey,8,20
 Ruby & The Romantics,8,1
 Richard Chamberlain,8,10
-Rufus,8,3
+Rufus featuring Chaka Khan,12,3
 Robert Plant,8,20
 Rush,8,21
 My Chemical Romance,8,9
@@ -864,7 +864,7 @@ Avant,8,13
 Bobbie Gentry,8,1
 "10,000 Maniacs",8,11
 Band Perry,8,14
-B-52's,8,3
+The B-52's,8,3
 Bay City Rollers,8,1
 Babys,8,13
 Andy Gibb,8,1
@@ -917,7 +917,7 @@ Nino Tempo & April Stevens,7,1
 Mel Carter,7,8
 Nitty Gritty Dirt Band,7,9
 Neil Young,11,1
-Meters,7,23
+The Meters,7,23
 Nelly Furtado,7,1
 Motels,7,9
 Maxwell,7,4
@@ -948,7 +948,7 @@ Joe Walsh,7,12
 Jimmy Ruffin,7,7
 Jack Johnson,7,20
 Honey Cone,7,1
-Go-Go's,7,2
+The Go-Gos,7,2
 Go West,7,8
 Good Charlotte,7,20
 Jo Stafford,7,13
@@ -979,7 +979,7 @@ Fantasia,7,1
 Freddy Fender,7,1
 Donnie Iris,7,25
 Gloria Lynne,7,28
-Chantels,7,14
+The Chantels,7,14
 Dan Hartman,7,6
 Buckinghams,7,1
 Brooklyn Bridge,7,3
@@ -1231,7 +1231,7 @@ Tamia,5,10
 Tracy Chapman,5,3
 Strawberry Alarm Clock,5,1
 Stray Cats,5,3
-Zombies,5,2
+The Zombies,5,2
 Starbuck,5,3
 Shaun Cassidy,5,1
 Shadows of Knight,5,10
@@ -1359,7 +1359,7 @@ Gin Blossoms,5,9
 Dixie Cups,5,1
 Ernie Freeman,5,4
 Enya,5,10
-Esther Phillips,5,8
+Esther Phillips,7,8
 Dream Weavers,5,7
 Frankie Ford,5,14
 Garnet Mimms & The Enchanters,5,4
@@ -1507,7 +1507,7 @@ Randy Houser,4,24
 Sandpipers,4,9
 Question Mark & The Mysterians,4,1
 Starland Vocal Band,4,1
-Sir Douglas Quintet,4,13
+The Sir Douglas Quintet,4,13
 Romantics,4,3
 Skrillex,4,69
 Seeds,4,36
@@ -1526,7 +1526,7 @@ Sheila E.,4,7
 Shelley Fabares,4,1
 Standells,4,11
 Nancy Sinatra & Lee Hazlewood,4,14
-Ozzy Osbourne,4,28
+Ozzy Osbourne,5,8
 Nicolette Larson,4,8
 Patti Austin,4,55
 Ocean,4,2
@@ -1790,7 +1790,7 @@ Billy Paul,4,1
 Baja Marimba Band,4,41
 Barry Mann,4,7
 Bobby Bloom,4,8
-Billy Ward & His Dominoes,4,12
+Billy Ward and his Dominoes,4,12
 Better Than Ezra,4,48
 Alarm,4,50
 Bobby Valentino,4,8
@@ -1818,7 +1818,7 @@ Theory of A Deadman,3,55
 Z.Z. Hill,3,62
 Tommy Page,3,1
 Tone Loc,3,2
-T. Rex,3,10
+T. Rex,4,10
 Timmy Thomas,3,3
 Unifics,3,25
 Tarney-Spencer Band,3,74
@@ -2088,7 +2088,7 @@ Matt Monro,3,18
 Marmalade,3,10
 Lil' Mo,3,11
 LaVern Baker & The Gliders,3,14
-Kate Bush,3,30
+Kate Bush,4,30
 Martin Denny,3,4
 King Floyd,3,6
 LeBlanc & Carr,3,13
@@ -2311,7 +2311,7 @@ Buffy Sainte-Marie,3,38
 Chad Mitchell Trio,3,43
 Dave Brubeck Quartet,3,25
 Chad Stuart & Jeremy Clyde,3,7
-De La Soul,3,34
+De La Soul,4,14
 Chamillionaire,3,1
 Devo,3,14
 Chante Moore,3,10
@@ -2528,7 +2528,7 @@ Wade Flemons,2,70
 Street People,2,36
 Waikikis,2,33
 Trick Pony,2,47
-Walker Brothers,2,13
+Scott Walker,3,13
 Trillville,2,14
 Wanderers,2,88
 Taylor Hicks,2,1
@@ -2696,7 +2696,7 @@ Robin McNamara,2,11
 Raydio,2,8
 Sinead O'Connor,2,1
 Ronnie Hawkins,2,45
-Siouxsie & The Banshees,2,23
+Siouxsie & the Banshees,2,23
 Raekwon,2,0
 Sad Cafe,2,71
 Springfields,2,20
@@ -2896,7 +2896,7 @@ Loleatta Holloway,2,68
 Kenny Lattimore,2,33
 Matchbox 20,2,24
 Lou Courtney,2,71
-Link Wray & His Ray Men,2,16
+Link Wray,4,16
 Kool Moe Dee,2,62
 Kid Frost,2,42
 LeToya,2,31
@@ -3125,7 +3125,7 @@ Jody Reynolds,2,5
 Jesse Johnson's Revue,2,61
 Hillside Singers,2,13
 Johnny Cash & The Tennessee Three,2,29
-JB's,2,67
+The J.B.'s,3,22
 Jesse Powell,2,10
 Joe Barry,2,24
 Ironhorse,2,36
@@ -3187,7 +3187,7 @@ Donnie & The Dreamers,2,35
 Dynamics,2,44
 Dido,2,3
 Fred Darian,2,96
-Dick Dale & The Del-Tones,2,60
+Dick Dale,2,60
 Eazy-E,2,42
 Estelle,2,9
 Ebonys,2,51
@@ -3296,7 +3296,7 @@ Cannonball Adderly,2,11
 Casinos,2,6
 Clivilles & Cole,2,1
 Dell-Vikings,2,4
-Clovers,2,23
+The Clovers,2,23
 Calloway,2,2
 Club Nouveau,2,1
 Chuck Berry & His Combo,2,5
@@ -4086,7 +4086,7 @@ Richie Furay,1,39
 Sole,1,21
 Ruffneck,1,82
 Ronnie Spector,1,77
-Rage Against The Machine,1,69
+Rage Against the Machine,1,69
 Souls of Mischief,1,72
 Richie Havens,1,16
 Southwest F.O.B.,1,56
@@ -4203,7 +4203,7 @@ Sky,1,83
 Rakim & Ken-Y,1,90
 Reparata,1,92
 Red Rockers,1,53
-Replacements,1,51
+The Replacements,1,51
 Purple Ribbon All-Stars,1,35
 Slim,1,49
 Sam Palladio & Clare Bowen,1,92
@@ -5157,7 +5157,7 @@ Lieutenant Buddy Knox,1,17
 Lovelites,1,60
 Kenny Loggins & Steve Perry,1,17
 Judson Spence,1,32
-Junior Walker & The All Stars,1,4
+Junior Walker & the All-Stars,1,4
 LSG,1,4
 Just Us,1,34
 Lucille Starr,1,54
@@ -6249,7 +6249,7 @@ Flame,1,95
 Eric Troyer,1,92
 DJ Laz,1,56
 Erin Cruise,1,90
-Flaming Lips,1,55
+The Flaming Lips,1,55
 Fred Knoblock & Susan Anton,1,28
 DJ Miko,1,58
 Fred Schneider,1,85
@@ -7021,7 +7021,7 @@ Barry Gordon,1,52
 Bobby Pinson,1,88
 Alice Deejay,1,27
 Anya Marina,1,88
-Alice in Chains,1,92
+Alice In Chains,1,92
 Bonnie McKee,1,87
 Alice Wonder Land,1,62
 Boss,1,65
@@ -7139,7 +7139,7 @@ Ann Cole,1,99
 Audrey Arno & The Hazy Osterwald Sextet,1,87
 9.9,1,51
 Augie Rios,1,47
-Afrika Bambaataa & The Soul Sonic Force,1,48
+Afrika Bambaataa,1,48
 August Alsina-Trinidad James,1,48
 AnnaSophia Robb,1,90
 Bert Sommer,1,48

@@ -1,9 +1,9 @@
-Artist,Certified Units (Millions)
-2 Pac,36.5
+﻿Artist,Certified Units (Millions)
+2Pac,36.5
 3 Doors Down,12
 50 Cent,11.5
-Abba,10.5
-Ac/Dc,72
+ABBA,10.5
+AC/DC,72
 Ace Of Base,10
 Adele,28
 Aerosmith,66.5
@@ -26,7 +26,7 @@ Barbra Streisand,68.5
 Barry Manilow,27.5
 Barry White,11
 Beastie Boys,23
-Bee Gees,28
+The Bee Gees,28
 Bette Midler,12
 Beyonce,13
 Billy Joel,82.5
@@ -36,7 +36,7 @@ Blake Shelton,10
 Blink-182,10
 Bob Dylan,36
 Bob Marley & The Wailers,21.5
-Bob Seger & The Silver Bullet Band,44.5
+Bob Seger,44.5
 Bobby Brown,10
 Bon Jovi,34.5
 Bone Thugs 'N Harmony,13.5
@@ -63,8 +63,7 @@ Coldplay,14.5
 Counting Crows,12
 Creed,25
 Creedence Clearwater Revival,28
-"Crosby, Stills & Nash",10
-"Crosby, Stills, Nash & Young",18
+"Crosby, Stills and Nash",28
 Dan Fogelberg,14
 Dave Matthews Band,34.5
 Def Leppard,35.5
@@ -79,7 +78,7 @@ Doobie Brothers,22
 Drake,16.5
 Duran Duran,12
 Dwight Yoakam,11.5
-Eagles,120
+The Eagles,120
 "Earth, Wind & Fire",23.5
 Ed Sheeran,10
 Electric Light Orchestra,10
@@ -109,8 +108,8 @@ Hammer,16
 Heart,22.5
 Hootie & The Blowfish,25
 Huey Lewis & The News,12
-Inxs,15
-Isley Brothers,15.5
+INXS,15
+The Isley Brothers,15.5
 Jackson Browne,18.5
 James Taylor,33
 Janet Jackson,26
@@ -121,7 +120,7 @@ Jefferson Airplane/Starship,14
 Jennifer Lopez,11
 Jethro Tull,11
 Jewel,18.5
-Jimi Hendrix,23
+The Jimi Hendrix Experience,23
 Jimmy Buffett,23
 John Denver,33.5
 John Lennon,10.5
@@ -144,9 +143,9 @@ Kenny G,48
 Kenny Rogers,47.5
 Kid Rock,23.5
 Kirk Franklin,10
-Kiss,21
+KISS,21
 Korn,16.5
-L.L. Cool J,12.5
+LL Cool J,12.5
 Leann Rimes,16.5
 Led Zeppelin,111.5
 Lenny Kravitz,10.5
@@ -197,7 +196,7 @@ Ozzy Osbourne,27.25
 P!Nk,18
 Pat Benatar,12.5
 Patsy Cline,14.5
-Paul Mc Cartney,15.5
+Paul McCartney,25.5
 Paul Mc Cartney & Wings,10
 Paul Simon,13.5
 Paula Abdul,11.5
@@ -207,7 +206,7 @@ Peter Gabriel,10
 Phil Collins,33.5
 Pink Floyd,75
 Poison,14.5
-Prince,20.5
+Prince,36.5
 Prince & The Revolution,16
 Queen,34.5
 R. Kelly,32
@@ -221,7 +220,7 @@ Ricky Martin,10.5
 Rihanna,22.5
 Rod Stewart,38
 Rush,25
-S.R. Vaughan & Double Trouble,11.5
+Stevie Ray Vaughan & Double Trouble,11.5
 Sade,23.5
 Santana,43.5
 Sarah Mc Lachlan,18.5
@@ -229,12 +228,12 @@ Savage Garden,10
 Scorpions,10.5
 Shania Twain,48
 Sheryl Crow,16
-Simon & Garfunkel,38.5
+Simon and Garfunkel,38.5
 Smashing Pumpkins,19.75
 Snoop Dogg,12.5
 Spice Girls,11
 Steely Dan,11
-Steve Miller Band,25.5
+Steve Miller,25.5
 Stevie Nicks,10.5
 Stevie Wonder,19.5
 Sting,18
@@ -259,7 +258,7 @@ Tim Mcgraw,37.5
 Tina Turner,10
 Tlc,22
 Toby Keith,25
-Tom Petty & The Heartbreakers,31.5
+Tom Petty & the Heartbreakers,31.5
 Toni Braxton,19.5
 Tracy Chapman,13
 Travis Tritt,12
@@ -275,4 +274,254 @@ Will Smith,12
 Willie Nelson,31.5
 Yanni,11
 Yes,13.5
-Zz Top,25
+ZZ Top,25
+Al Green,6
+Albert King,0
+Alice Cooper,8
+B. B. King,4
+Big Joe Turner,0
+Bill Haley,0
+Bill Withers,1.5
+Blondie,5
+Bo Diddley,0
+"Bobby ""Blue"" Bland",0.5
+Bobby Darin,0
+Bobby Womack,0
+Booker T. and the M.G.'s,0
+Brenda Lee,0
+Buddy Guy,0.5
+Buddy Holly,1
+Buffalo Springfield,1
+Carl Perkins,0
+Cheap Trick,9
+Chuck Berry,0.5
+Clyde McPhatter,0
+Cream,4.5
+Curtis Mayfield,1.5
+Darlene Love,0
+David Bowie,9.5
+Deep Purple,7.5
+Del Shannon,0
+Donna Summer,9
+Donovan,1.5
+Dr. John,0
+Duane Eddy,0
+Dusty Springfield,0
+Elvis Costello & the Attractions,3.5
+Fats Domino,0
+Frank Zappa,0.5
+Frankie Lymon and the Teenagers,0
+Gene Pitney,0
+Gene Vincent,0
+Gladys Knight and the Pips,4
+Grandmaster Flash & the Furious Five,0
+Hank Ballard,0
+Ike and Tina Turner,0.5
+Isaac Hayes,3
+Jackie Wilson,0
+James Brown,2
+Jeff Beck,4.5
+Jefferson Airplane,3.5
+Jerry Lee Lewis,0
+Jimmy Cliff,0
+Jimmy Reed,0
+Joan Baez,3
+Joan Jett and the Blackhearts,2.5
+John Lee Hooker,0
+Joni Mitchell,7
+Laura Nyro,0
+LaVern Baker,0
+Leonard Cohen,1.5
+Little Anthony & the Imperials,0
+Little Richard,0
+Little Willie John,0
+Lloyd Price,0
+Lou Reed,1
+Lovin' Spoonful,0.5
+Martha and the Vandellas,0.5
+Marvin Gaye,6.5
+Miles Davis,5.5
+Muddy Waters,0
+N.W.A,6.5
+Nina Simone,0
+Otis Redding,3
+Parliament-Funkadelic,6
+Patti Smith,0
+Percy Sledge,0
+Public Enemy,4.5
+Ramones,1
+Randy Newman,0.5
+Ray Charles,7.5
+Ricky Nelson,0.5
+Righteous Brothers,4
+Ritchie Valens,0
+Roy Orbison,4.5
+Run DMC,6
+Ruth Brown,0
+Sam & Dave,0
+Sex Pistols,1
+Sly and the Family Stone,8
+Smokey Robinson,1
+Solomon Burke,0
+Talking Heads,7
+The (Young) Rascals,2.5
+The Allman Brothers Band,8.5
+The Animals,0.5
+The Band,2
+The Byrds,1
+The Clash,5
+The Coasters,0
+The Dave Clark Five,1
+The Dells,0
+The Drifters,0
+The Everly Brothers,0.5
+The Flamingos,0
+The Four Seasons,2.5
+The Four Tops,0.5
+The Grateful Dead,18.5
+The Hollies,0.5
+The Impressions,0
+The Jackson Five,5.5
+The Kinks,2
+The Mamas and the Papas,2.5
+The Moonglows,0
+The O'Jays,7
+The Paul Butterfield Blues Band,0
+The Platters,1
+The Pretenders,4
+The Ronettes,0
+The Shirelles,0
+The Small Faces/The Faces,0.5
+The Staple Singers,0
+The Stooges,0
+The Supremes,1.5
+The Velvet Underground,0
+The Ventures,1.5
+The Yardbirds,0
+Wilson Pickett,0
+Devo,1.5
+John Prine,0.5
+Kraftwerk,0
+MC5,0
+Radiohead,6.5
+Rage Against the Machine,9
+Roxy Music,1
+Rufus featuring Chaka Khan,3.5
+The Cure,8.5
+The Zombies,0
+Todd Rundgren,0.5
+Afrika Bambaataa,0
+Bad Brains,0
+Bauhaus,0
+Ben E. King,0
+Big Mama Thornton,0
+Big Star,0
+Billy Ward and his Dominoes,0
+Bjork,2.5
+Black Flag,0
+Brian Eno,0
+Can,0
+Captain Beefheart,0
+Carly Simon,8.5
+Chaka Khan,2.5
+Chic,2.5
+Chubby Checker,0
+Chuck Willis,0
+Connie Francis,0.5
+Conway Twitty,5.5
+De La Soul,1.5
+Dick Dale,0
+"Emerson, Lake & Palmer",4.5
+Eric B. & Rakim,2
+Esther Phillips,0
+Eurythmics,6.5
+Faith No More,1.5
+Fugazi,0
+Gram Parsons,0
+Guitar Slim,0
+Harry Nilsson,1
+Hüsker Dü,0
+Ice Cube,8.5
+Ice-T,3.5
+Iron Maiden,6.5
+Jan & Dean,0
+Jane's Addiction,4
+Jim Croce,2.5
+Joe Cocker,1.5
+Joe Tex,0
+John Coltrane,2
+Johnny Ace,0
+Johnny Burnette,0
+Joy Division,0
+Judas Priest,9.5
+Junior Walker & the All-Stars,0
+Kate Bush,0.5
+King Crimson,0.5
+Link Wray,0
+Los Lobos,2
+Love,0
+Mary Wells,0
+Massive Attack,0
+Megadeth,6.5
+Motorhead,0
+My Bloody Valentine,0
+New Order,2
+New York Dolls,0
+Nick Cave,0
+Nick Drake,0
+Pantera,7
+Peter Tosh,1.5
+"Peter, Paul & Mary",8
+Phish,5.5
+Pixies,1
+Procol Harum,0.5
+Rick James,2.5
+Salt-N-Pepa,8
+Scott Walker,0
+Screamin' Jay Hawkins,0
+Silver Apples,0
+Siouxsie & the Banshees,0
+Slayer,2
+Sonic Youth,0
+Soundgarden,9
+Sparks,0
+Steppenwolf,4.5
+Steve Winwood,7.5
+Stone Roses,0
+Stone Temple Pilots,17.5
+Suicide,0
+T. Rex,0
+Television,0
+The B-52's,6.5
+The Buzzcocks,0
+The Chantels,0
+The Clovers,0
+The Commodores,5
+The Dead Kennedys,0.5
+The Doobie Brothers,22
+The Flaming Lips,0.5
+The Go-Gos,2.5
+The Guess Who,1.15
+The J. Geils Band,3.5
+The J.B.'s,0
+The Jam,0
+The Jesus and Mary Chain,0
+The Marvelettes,0
+The Meters,0
+The Replacements,0
+The Runaways,0
+The Shangri-Las,0
+The Sir Douglas Quintet,0
+The Smiths,1.5
+The Specials,0
+The Spinners,2.5
+Thin Lizzy,0.5
+Three Dog Night,8
+Tommy James & the Shondells,0
+Toots & the Maytals,0
+Toto,7.5
+War,5.5
+Warren Zevon,1.5
+X,0
+XTC,0
+Weird Al Yankovic,8
