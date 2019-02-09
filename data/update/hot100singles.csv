@@ -203,7 +203,7 @@ Carly Simon,23,1
 Clyde McPhatter,21,6
 Alice Cooper,21,7
 Steve Miller,20,1
-Snoop Dogg,20,1
+Snoop Dogg,22,1
 Rick Springfield,20,1
 Ronnie Dove,20,14
 Nickelback,20,1
@@ -340,7 +340,7 @@ T-Pain,15,1
 Sammy Davis Jr.,15,1
 Robert Palmer,15,1
 Roger Miller,15,4
-Sheryl Crow,15,2
+Sheryl Crow,17,1
 The Staple Singers,15,1
 Monica,15,1
 OutKast,15,1
@@ -357,7 +357,7 @@ Justin Timberlake,16,1
 Intruders,15,6
 Gary Lewis & The Playboys,15,1
 Fall Out Boy,15,2
-Dolly Parton,15,1
+Dolly Parton,19,1
 George Michael,18,1
 Enrique Iglesias,15,1
 Busta Rhymes,15,3
@@ -588,7 +588,7 @@ The Pretenders,10,5
 Playmates,10,4
 Harry Nilsson,10,1
 Naughty By Nature,10,6
-Notorious B.I.G.,10,1
+Notorious B.I.G.,11,1
 New Colony Six,10,16
 Maxine Brown,10,19
 Phil Vassar,10,35
@@ -994,7 +994,7 @@ Dave 'Baby' Cortez,7,1
 Dee Dee Warwick,7,41
 Dave Mason,7,12
 Brothers Four,7,2
-Dave Matthews Band,7,16
+Dave Matthews Band,8,16
 Delaney & Bonnie,7,13
 Creed,7,1
 Deniece Williams,7,1
@@ -1174,7 +1174,7 @@ DeBarge,6,3
 Brenda Holloway,6,13
 Beau Brummels,6,8
 Angels,6,1
-Blink-182,6,6
+Blink 182,6,6
 Beenie Man,6,26
 Bonnie Tyler,6,1
 Bell Biv DeVoe,6,3
@@ -1204,7 +1204,7 @@ Archies,6,1
 Breaking Benjamin,6,40
 Birdman,6,26
 Black Crowes,6,26
-Waylon Jennings,5,25
+Waylon Jennings,11,21
 Travis Wammack,5,38
 Wild Cherry,5,1
 Time,5,9
@@ -1330,7 +1330,7 @@ Greg Kihn Band,5,2
 Gretchen Wilson,5,22
 Hues Corporation,5,1
 Jim Lowe,5,1
-Joe Jackson,5,6
+Joe Jackson,6,6
 Janis Joplin,8,1
 James Blunt,5,1
 Golden Earring,5,10
@@ -1934,7 +1934,7 @@ Ray, Goodman & Brown,3
 Restless Heart,3,11
 Shaquille O'Neal,3,35
 Roy Head & The Traits,3,2
-Roots,3,34
+The Roots,3,34
 Squeeze,3,15
 Robin S,3,5
 Roman Holliday,3,54
@@ -2107,7 +2107,7 @@ Keith Murray,3,50
 Mack 10,3,37
 Marie Osmond,3,5
 Juicy J,3,29
-Loretta Lynn,3,70
+Loretta Lynn,4,56
 Mad Lads,3,74
 Lauryn Hill,3,1
 Madness,3,7
@@ -2178,7 +2178,6 @@ Jimmy Eat World,3,5
 J.J. Jackson,3,22
 Jimmy Gilmer & The Fireballs,3,1
 Hot,3,6
-Jay-Z & Kanye West,3,5
 Groove Theory,3,64
 Heather Headley,3,55
 Joe Public,3,4
@@ -2268,7 +2267,7 @@ Dokken,3,64
 Five,3,10
 Dorsey Burnette,3,23
 Dwight Twilley Band,3,16
-Emmylou Harris,3,37
+Emmylou Harris,4,37
 Far East Movement,3,1
 Dottie West,3,49
 Evie Sands,3,50
@@ -2662,7 +2661,6 @@ Raheem DeVaughn,2,76
 Rocky Fellers,2,16
 Shirley Brown,2,22
 Raphael Saadiq,2,99
-R. Kelly & Jay-Z,2,39
 Smooth,2,49
 RuPaul,2,45
 Sneaker,2,34
@@ -3114,7 +3112,6 @@ Joanie Sommers,2,7
 Jerry Reed & The Hully Girlies,2,79
 Jack Ross,2,16
 John Williams,2,13
-Jay-Z Kanye West,2,69
 Hugo Montenegro, His Orchestra & Chorus,2
 Jodie Sands,2,15
 Horst Jankowski, His Orchestra & Chorus,2
@@ -3381,7 +3378,7 @@ Cues,2,77
 Davina,2,60
 Charlie Ross,2,42
 DAY26,2,79
-Cult,2,46
+The Cult,2,46
 Clarence Reid,2,40
 Christie,2,23
 Carl Douglas,2,1
@@ -3526,7 +3523,7 @@ Allan Clarke,2,41
 Bo Bice,2,2
 Belouis Some,2,67
 Bob Beckham,2,32
-Ben Folds,2,71
+Ben Folds Five,2,71
 Angie Martinez,2,15
 Benny Mardones,2,11
 Adam Faith,2,31
@@ -3715,7 +3712,6 @@ Tupac & Mopreme,1,87
 Tony Bellus,1,25
 Tupac + Outlawz,1,72
 Texas,1,77
-Tupac, Notorious B.I.G., Radio
 What Is This,1,62
 Turbans,1,33
 Whirlwind,1,91
@@ -4339,7 +4335,6 @@ Singing Belles,1,91
 Scott Garrett,1,92
 Single Bullet Theory,1,78
 Robert Gordon,1,76
-R.L., Snoop Dogg & Lil' Kim,1
 Scotty Emerick & Toby Keith,1,91
 Roger Hodgson,1,48
 Robert Gordon & Link Wray,1,83
@@ -4526,7 +4521,6 @@ Randy Edelman,1,92
 Rattles,1,79
 Sheryl Crow & Sting,1,33
 Richard & The Young Lions,1,99
-Sheryl Crow, Kid Rock & Keith Urban,1
 Richard Barrett,1,94
 Shields,1,12
 Richard Barrett & The Chantels,1,93
@@ -4753,7 +4747,7 @@ Ponderosa Twins + One,1,78
 One 2 Many,1,37
 MC Ren,1,90
 Michael Zager's Moon Band,1,94
-Portishead,1,0
+Portishead,1,53
 One of the Girls,1,74
 Potliquor,1,65
 Nancy Martinez,1,32
@@ -5103,9 +5097,8 @@ Leroy Pullins,1,57
 Lysette,1,75
 Joneses,1,47
 M.I.A.,1,4
-Kenny Chesney & Dave Matthews,1,32
 Jonathan Cain,1,44
-Kenny Chesney & Mac McAnally,1,47
+Kenny Chesney & Mac McAnally,2,32
 Mad Cobra,1,13
 Les Compagnons de la Chanson,1,60
 Lafayettes,1,87
@@ -5387,7 +5380,6 @@ Kit Carson,1,11
 Lanier & Co.,1,48
 Loleatta Holloway & Bunny Sigler,1,87
 Manhattan Brothers,1,45
-Kanye West Jay-Z, Big Sean,1
 Kay Thompson,1,39
 London Quireboys,1,76
 Mannie Fresh,1,79
@@ -5700,19 +5692,13 @@ G-Wiz,1,73
 Joey Kid,1,70
 Hot Boys,1,65
 Ivy League,1,83
-Jay-Z & Linkin Park,1,20
 John Anderson,1,43
-Jay-Z & T.I.,1,5
 John Cafferty,1,76
-Jay-Z + Swizz Beatz,1,37
 Helen Shapiro,1,100
 Hot Butter,1,9
 John Denver & Olivia Newton-John,1,13
-Jay-Z, Beanie Sigel & Memphis Bleek,1
 Helena Ferguson,1,90
-Jay-Z, Bono, The Edge & Rihanna
 John Fred & The Playboys,1,82
-Jay-Z, Rihanna & Kanye West,1
 John Hunter,1,39
 Gwyneth Paltrow,1,81
 Hellogoodbye,1,14
